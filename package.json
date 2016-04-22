@@ -18,7 +18,7 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hobbyquaker/cul.git"
+    "url": "https://github.com/akentner/cul.git"
   },
   "main": "./cul.js",
   "dependencies": {
